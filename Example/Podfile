@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GiniTestPod_Example' do
+  pod 'GiniTestPod', :path => '../'
+
+  target 'GiniTestPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

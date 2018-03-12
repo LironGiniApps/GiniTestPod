@@ -1,0 +1,22 @@
+{
+  "name": "GiniTestPod",
+  "version": "0.1.0",
+  "summary": "A short description of GiniTestPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LironGiniApps/GiniTestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LironGiniApps": "LironY@gini-apps.com"
+  },
+  "source": {
+    "git": "https://github.com/LironGiniApps/GiniTestPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GiniTestPod/Classes/**/*"
+}
