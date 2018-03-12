@@ -148,8 +148,8 @@ Pod::Spec.new do |s|
     # s.dependency 'Fabric'       , '~> 1.7.2'
     # s.dependency 'Crashlytics'  , '~> 3.9.3'
 
-    s.dependency 'Firebase/Core' , '~> 4.7.0'
-    s.dependency 'Firebase/Messaging' , '~> 4.7.0'
+    s.dependency 'Firebase/Core'
+    s.dependency 'Firebase/Messaging'
 
     
     # ――― Default Subspec ――――――――――-―――――――――――――――――――――――――――――――――――――――――――――― #
